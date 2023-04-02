@@ -1,0 +1,91 @@
+/*
+Theme Name: Ranbron Child
+Description: This is a child theme for Ranbron Theme
+Author: Templatation
+Template: ranbron
+Version: 1.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+.vx-top-uber-menu-container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
+
+.header .navbar-brand {
+   
+     padding: 19px 0 !important; 
+}
+
+.logo.navbar-brand img {
+     width: 275px !important; 
+}
+.pra-link {
+    min-height: 230px;
+}
+.visa-bx {box-shadow: 0 0 11px 1px #eaeaea; margin-bottom:30px !important;
+}
+.visa-bx a {
+    padding: 14px 6px!important;
+    display: block; transition:all ease-in-out 0.5s; -webkit-transition:all ease-in-out 0.5s; -ms-transition:all ease-in-out 0.5s; -o-transition:all ease-in-out 0.5s;
+    color: #545454 !important;
+}
+.visa-bx a:hover { background:#ed1c24; color:#f7f7f7; transition:all ease-in-out 0.5s; -webkit-transition:all ease-in-out 0.5s; -ms-transition:all ease-in-out 0.5s; -o-transition:all ease-in-out 0.5s;}
+.visa-bx a:hover h3 {color:#fff;}
+.visa-bx a:hover li {color:#f7f7f7;} 
+.visa-bx   img { margin-bottom:13px !important;}
+.visa-bx h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+.visa-bx ul {
+    padding: 0;
+}
+.visa-bx ul li {
+    font-size: 13px;
+    line-height: 20px !important;
+    list-style: none;
+}
+.count h2 {
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 14px;
+}
+.visa-bx {
+    padding: 20px 15px 20px 15px;
+}
+.visa-bx img {
+    margin-bottom: 13px !important;
+    float: left;
+  	border-radius:5px;
+}
+.visa-bx h3 {
+    margin-top: 10px !important;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+.visa-bx ul li {
+    /*line-height: 20px !important;
+    list-style: none;
+    display: inline-block;
+    min-width: 49%;
+    border: 1px dashed #e0e0e0;
+    padding: 5px;
+    font-size: 14px;*/
+  line-height: 0px !important;
+    list-style: none;
+    display: block;
+    border: 1px dashed #e0e0e0;
+    font-size: 14px;
+}
+.visa-bx a:hover {
+    color: #ffffff !important;
+}
