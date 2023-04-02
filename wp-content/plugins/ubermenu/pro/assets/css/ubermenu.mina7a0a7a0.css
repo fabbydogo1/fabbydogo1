@@ -90,14 +90,14 @@
     text-align: center;
     /* border: 3px solid rgb(3, 179, 120); */
     /* background:rgb(0, 128, 90); */
-    background-color: none;
+    background-color: purple;
     padding-right: 5px;
     padding-left: 10px;
     
 }
 #ubermenu-nav-main-20 li img{
-    float: right;
-    color:red;
+/*     float: right; */
+/*     color:red; */
 
 }
 .header .header-navigation ul.navigation-box > li > ul.sub-menu {
@@ -111,7 +111,7 @@
     /* margin: 0 auto; */
     /* text-align: center; */
     /* background: rgba(0,0,0,.075); */
-    color:purple;
+/*     color:purple; */
     
 }
 nav li{
@@ -124,7 +124,7 @@ nav li{
 .nav ul li a{
     position: relative;
     /* padding-top: 17px; */
-    background-color: red;
+/*     background-color: red; */
     /* height: 14px; */
 }
 .nav li {
